@@ -1,0 +1,5 @@
+Prompt Welcome Pratik
+Prompt
+select * from dept;
+Prompt
+Prompt visit again
